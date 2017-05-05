@@ -12,9 +12,6 @@ end
 
 # bob = 3, linda = 4, tina = 5, gene = 6, louise = 7
 
-
-
-
 end
 
 
